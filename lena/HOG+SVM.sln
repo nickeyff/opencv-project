@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HOG+SVM", "lena\lena.vcxproj", "{27DAEB2A-764A-41E0-8F83-5332A071C07F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "加入自举法", "加入自举法\加入自举法.vcxproj", "{879A9488-B8D0-4FE4-B07A-E39EBD5EF968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27DAEB2A-764A-41E0-8F83-5332A071C07F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27DAEB2A-764A-41E0-8F83-5332A071C07F}.Debug|Win32.Build.0 = Debug|Win32
+		{27DAEB2A-764A-41E0-8F83-5332A071C07F}.Release|Win32.ActiveCfg = Release|Win32
+		{27DAEB2A-764A-41E0-8F83-5332A071C07F}.Release|Win32.Build.0 = Release|Win32
+		{879A9488-B8D0-4FE4-B07A-E39EBD5EF968}.Debug|Win32.ActiveCfg = Debug|Win32
+		{879A9488-B8D0-4FE4-B07A-E39EBD5EF968}.Debug|Win32.Build.0 = Debug|Win32
+		{879A9488-B8D0-4FE4-B07A-E39EBD5EF968}.Release|Win32.ActiveCfg = Release|Win32
+		{879A9488-B8D0-4FE4-B07A-E39EBD5EF968}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
